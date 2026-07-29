@@ -1,33 +1,28 @@
-# 🤖 CodeAlpha Artificial Intelligence Internship
+# Language Translation Tool
 
-A collection of practical artificial intelligence projects developed during my CodeAlpha internship using Python.
+This repository contains my first project for the CodeAlpha Artificial Intelligence internship.
 
-## 🧠 About This Repository
+The purpose of this project is to create a simple translation application where users can enter text, choose the source and target languages, and view the translated result.
 
-This repository documents my hands-on work in artificial intelligence and machine learning. Each project will include source code, setup instructions, implementation details, results, and screenshots.
+## Features
 
-## 🚀 Internship Projects
+- Enter text for translation
+- Select the source language
+- Select the target language
+- Translate text using a translation API
+- View the translated text clearly
+- Copy the translated result
 
-| Task | Project | Status |
-|------|---------|--------|
-| Task 1 | To be added | In Progress |
-| Task 2 | To be added | Not Started |
-| Task 3 | To be added | Not Started |
-
-## 🛠️ Technologies
+## Tools
 
 - Python
-- Artificial Intelligence
-- Machine Learning
-- Data Processing
-- Automation
+- Streamlit
+- Translation API
 
-## 📂 Repository Structure
+## Project Status
 
-```text
-CodeAlpha-Artificial-Intelligence/
-├── Task-1/
-├── Task-2/
-├── Task-3/
-├── README.md
-└── .gitignore
+The project is currently in development.
+
+## Author
+
+Shayan Akbar
