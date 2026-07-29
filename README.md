@@ -5,7 +5,7 @@ The application allows users to enter text, select the source and target languag
 
 ## Live Demo
 
-[Open the Language Translation Tool](https://codealpha-languagetranslationtool-rpdqjcy32ksycug6jzxvu.streamlit.app/)
+[Open the Language Translation Tool]([https://codealpha-languagetranslationtool-rpdqjcy32ksycug6jzxvu.streamlit.app](https://codealpha-languagetranslationtool-rpdqjcy32ksyscug6j2xvu.streamlit.app/)
 
 ## Project Screenshot
 
